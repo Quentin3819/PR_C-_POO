@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1638287356 source:/home/apprenant/Bureau/ProjectC++/main.cpp
+	<iostream>
+	"Person.h"
+	"Cat.h"
+
+1638287764 source:/home/apprenant/Bureau/ProjectC++/src/Person.cpp
+	"Person.h"
+
+1638286889 /home/apprenant/Bureau/ProjectC++/include/Person.h
+	<iostream>
+	<new>
+	"Creature.h"
+
+1638353086 /home/apprenant/Bureau/ProjectC++/include/Creature.h
+	<iostream>
+
+1638284956 /home/apprenant/Bureau/ProjectC++/include/Cat.h
+	"Creature.h"
+
+1638284970 source:/home/apprenant/Bureau/ProjectC++/src/Cat.cpp
+	"Cat.h"
+
+1638283058 source:/home/apprenant/Bureau/ProjectC++/src/Creature.cpp
+	"Creature.h"
+
